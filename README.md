@@ -8,5 +8,6 @@ Ryan Wood            rew177@pitt.edu
 
 **Datasets:**  
 Arrests - https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025  
+This dataset contains arrests reported by the Pittsburgh Criminal Activity Dashboard from 2024 to October 31, 2026.  
 
 **Overview:**
