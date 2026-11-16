@@ -14,4 +14,7 @@ Cost of Living - https://data.wprdc.org/dataset/ucsur_neighborhoodprofiles_2024/
 This dataset contains survey data reported by American Community Survey from 2008 to 2022.
 
 **Overview:**
-Our goal is to quantify the best neighborhood in Pittsburgh based on the metric of Overall Environment, broken up into smaller submetrics including arrests, cost of living, and natural environment.
+Our goal is to quantify the best neighborhood in Pittsburgh based on the metric of Overall Environment, broken up into smaller submetrics including arrests, cost of living, and natural environment.  
+
+Best Neighborhoods:
+
