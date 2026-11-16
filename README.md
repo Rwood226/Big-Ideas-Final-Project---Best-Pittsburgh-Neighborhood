@@ -17,4 +17,9 @@ This dataset contains survey data reported by American Community Survey from 200
 Our goal is to quantify the best neighborhood in Pittsburgh based on the metric of Overall Environment, broken up into smaller submetrics including arrests, cost of living, and natural environment.  
 
 Best Neighborhoods:
-
+1. **Highland Park:**
+2. 421 cars/day, Score: 100      
+3. **Manchester:**
+4. 584 cars/day, Score: 72.1
+5. **Carrick:**
+6. 868 cars/day, Score: 48.5
