@@ -18,8 +18,8 @@ Our goal is to quantify the best neighborhood in Pittsburgh based on the metric 
 
 Best Neighborhoods:
 1. **Highland Park:**
-2. 421 cars/day, Score: 100      
+2. 421 cars/day, Score: 100&nbsp;Safety Score: 0.367677 
 3. **Manchester:**
-4. 584 cars/day, Score: 72.1
+4. 584 cars/day, Score: 72.1     Safety Score: 0.152672 
 5. **Carrick:**
-6. 868 cars/day, Score: 48.5
+6. 868 cars/day, Score: 48.5     Safety Score: 0.050744
