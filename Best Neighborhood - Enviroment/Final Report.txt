@@ -1,0 +1,22 @@
+Environment is an important factor when determining the best neighborhood in Pittsburgh. To measure this, I used traffic count data from different locations throughout Pittsburgh. 
+Less traffic generally means less noise pollution, making a neighborhood more peaceful and enjoyable to live in. And also, living around less traffic makes it easier to drive around and get to where you need to be fast.
+
+The first code block takes the spreadsheet and organizes the traffic data by neighborhood. It calculates the average and median number of cars passing through measured locations each day, as well as how many locations were recorded in each neighborhood.
+The second code block ranks the neighborhoods using a Traffic Environment Score. Only neighborhoods with at least 5 valid traffic measurements were included in the main ranking. The formula is:
+
+**Traffic Environment Score = 100 × (Lowest Median Traffic / Neighborhood Median Traffic)**
+For example, Manchester has a median of 584 cars per day, while the lowest qualifying median is 421.
+
+100 × (421 / 584) = **72.1**
+
+This gives Manchester a Traffic Environment Score of 72.1.
+
+### Top 3 Neighborhoods
+
+1. **Highland Park:** 421 cars/day, Score: 100
+2. **Manchester:** 584 cars/day, Score: 72.1
+3. **Carrick:** 868 cars/day, Score: 48.5
+
+Based on these results, **Highland Park is the best neighborhood for traffic-related environmental quality**, having the lowest median traffic count of the qualifying neighborhoods.
+
+However, traffic data does not directly measure noise pollution, and the measurements are from 2017–2021. While lower traffic can suggest a quieter environment, this is only one factor in determining the best overall neighborhood in Pittsburgh.
