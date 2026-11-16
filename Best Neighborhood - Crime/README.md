@@ -21,32 +21,32 @@ Thus Point Breeze has a Safety Score of 0.478894, placing it at number 23 on the
 To clarify, this is just arrests, and while a neighborhood of 4 people with 0 crime is great, it isn't the best, which is why other data is necessary. This can only be one piece to a greater puzzle.    
 
 I classified the top neighborhoods as those with a safety score greater than 0.3 to leave room for population errors
-St. Clair	            10.000000    
-Ridgemont	            6.250000   
-New Homestead	        4.166667    
-Windgap	              2.261429     
-Oakwood	              2.205882     
-Swisshelm             2.000000      
-Esplen	              1.581522      
-Friendship	          1.578000       
-Westwood	            1.308257      
-Polish Hill           1.054955   
-Upper Lawrenceville	 	1.030000   
-Bon Air               0.996947   
-Fairywood             0.974843   
-Hays	                0.915094   
-Upper Hill          	0.802105   
-Stanton Heights      	0.697541   
-Squirrel Hill North	  0.648241   
-Arlington Heights	    0.634559   
-Allegheny West	      0.614388   
-Duquesne Heights	  	0.573810   
-Banksville	          0.563675   
-Lincoln Place         0.509249   
-Point Breeze          0.478894   
-Perry North	          0.459365     
-Crafton Heights       0.448377      
-Fineview	            0.397087       
-Highland Park	        0.367677      
-West Oakland	        0.351246       
-Terrace Village	      0.304571       
+St. Clair  -  10.000000    
+Ridgemont  -  6.250000   
+New Homestead  -  4.166667    
+Windgap  -  2.261429     
+Oakwood  -  2.205882     
+Swisshelm  -  2.000000      
+Esplen  -  1.581522      
+Friendship  -  1.578000       
+Westwood  -  1.308257      
+Polish Hill  -  1.054955   
+Upper Lawrenceville  -  1.030000   
+Bon Air  -  0.996947   
+Fairywood  -  0.974843   
+Hays  -  0.915094   
+Upper Hill  -  0.802105   
+Stanton Heights  -  0.697541   
+Squirrel Hill North  -  0.648241   
+Arlington Heights  -  0.634559   
+Allegheny West  -  0.614388   
+Duquesne Heights  -  0.573810   
+Banksville  -  0.563675   
+Lincoln Place  -  0.509249   
+Point Breeze  -  0.478894   
+Perry North  -  0.459365     
+Crafton Heights  -  0.448377      
+Fineview  -  0.397087       
+Highland Park  -  0.367677      
+West Oakland  -  0.351246       
+Terrace Village  -  0.304571       
