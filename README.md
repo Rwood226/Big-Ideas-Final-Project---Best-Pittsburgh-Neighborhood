@@ -20,6 +20,6 @@ Best Neighborhoods:
 1. **Highland Park:**
 2. 421 cars/day, Score: 100&emsp;&emsp;&emsp;Safety Score: 0.367677 
 3. **Manchester:**
-4. 584 cars/day, Score: 72.1     Safety Score: 0.152672 
+4. 584 cars/day, Score: 72.1&emsp;&emsp;&emsp;Safety Score: 0.152672 
 5. **Carrick:**
 6. 868 cars/day, Score: 48.5     Safety Score: 0.050744
