@@ -1,23 +1,23 @@
 <h1>Big Ideas Final Project - Best Pittsburgh Neighborhood</h1>
 
-## Group 27   
+### Group 27   
 
 Layan Elkachouty     lae130@pitt.edu  
 Landyn Oates         lco22@pitt.edu  
 Ryan Wood            rew177@pitt.edu   
 
-**Datasets:**  
+### Datasets:   
 Arrests - https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025  
 This dataset contains arrests reported by the Pittsburgh Criminal Activity Dashboard from 2024 to October 31, 2026.  
 
 Cost of Living - https://data.wprdc.org/dataset/ucsur_neighborhoodprofiles_2024/resource/a2d6468e-0229-4c6a-92c5-10814092e580  
 This dataset contains survey data reported by American Community Survey from 2008 to 2022.
 <br>       
-**Overview:**
+### Overview:  
 Our goal is to quantify the best neighborhood in Pittsburgh based on the metric of Overall Environment, broken up into smaller submetrics including arrests, cost of living, and natural environment.  
 <br>
 <br>
-**Best Neighborhoods:**      
+### Best Neighborhoods:        
         
 **Traffic - Highland Park:**   
 &emsp;&emsp;&emsp;&ensp;421 cars/day, Score: 100&emsp;&emsp;&emsp;&ensp;Safety Score: 0.367677&emsp;&emsp;&emsp;Affordability Score: 2218.278063      
@@ -26,7 +26,7 @@ Our goal is to quantify the best neighborhood in Pittsburgh based on the metric 
 **Affordability - Point Breeze North:**      
 &emsp;&emsp;&emsp;&ensp;1468 cars/day, Score: 28.7&emsp;&emsp;&emsp;Safety Score: 0.050744&emsp;&emsp;&emsp;Affordability Score: 2289.932533    
 <br>
-**Best Overall:**   
+### Best Overall:     
     
 **1. Highland Park:**   
 &emsp;&emsp;&emsp;&ensp;Traffic: #1&emsp;&emsp;&emsp;&ensp;Safety: #27&emsp;&emsp;&emsp;Affordability: #3    
