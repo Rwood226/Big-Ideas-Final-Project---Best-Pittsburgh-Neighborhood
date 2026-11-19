@@ -16,10 +16,10 @@ This dataset contains survey data reported by American Community Survey from 200
 **Overview:**
 Our goal is to quantify the best neighborhood in Pittsburgh based on the metric of Overall Environment, broken up into smaller submetrics including arrests, cost of living, and natural environment.  
 
-**Best Neighborhoods:**
+**Best Neighborhoods:**      
 Traffic: **Highland Park:**   
-   421 cars/day, Score: 100&emsp;&emsp;&emsp;&ensp;Safety Score: 0.367677&emsp;&emsp;&emsp;Affordability Score: 2218.278063
+   421 cars/day, Score: 100&emsp;&emsp;&emsp;&ensp;Safety Score: 0.367677&emsp;&emsp;&emsp;Affordability Score: 2218.278063      
 Safety: **St. Clair:**     
-   2436 cars/day, Score: 17.3&emsp;&emsp;&emsp;Safety Score: 10.00000&emsp;&emsp;&emsp;Affordability Score: 419.3280
+   2436 cars/day, Score: 17.3&emsp;&emsp;&emsp;Safety Score: 10.00000&emsp;&emsp;&emsp;Affordability Score: 419.3280     
 Affordability: **Point Breeze North:**      
-   1468 cars/day, Score: 28.7&emsp;&emsp;&emsp;Safety Score: 0.050744&emsp;&emsp;&emsp;Affordability Score: 2289.932533
+   1468 cars/day, Score: 28.7&emsp;&emsp;&emsp;Safety Score: 0.050744&emsp;&emsp;&emsp;Affordability Score: 2289.932533     
