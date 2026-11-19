@@ -27,5 +27,10 @@ Our goal is to quantify the best neighborhood in Pittsburgh based on the metric 
 &emsp;&emsp;&emsp;&ensp;1468 cars/day, Score: 28.7&emsp;&emsp;&emsp;Safety Score: 0.050744&emsp;&emsp;&emsp;Affordability Score: 2289.932533    
 <br>
 **Best Overall:**   
+    
 **1. Highland Park:**   
-&emsp;&emsp;&emsp;&ensp;421 cars/day, Score: 100&emsp;&emsp;&emsp;&ensp;Safety Score: 0.367677&emsp;&emsp;&emsp;Affordability Score: 2218.278063  
+&emsp;&emsp;&emsp;&ensp;Traffic: #1&emsp;&emsp;&emsp;&ensp;Safety: #27&emsp;&emsp;&emsp;Affordability: #3
+**2. Swisshelm Park:**   
+&emsp;&emsp;&emsp;&ensp;Traffic: #1&emsp;&emsp;&emsp;&ensp;Safety: #6&emsp;&emsp;&emsp;Affordability: #4
+**3. Bloomfield:**   
+&emsp;&emsp;&emsp;&ensp;Traffic: #5&emsp;&emsp;&emsp;&ensp;Safety: #34&emsp;&emsp;&emsp;Affordability: #17
