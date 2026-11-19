@@ -12,8 +12,8 @@ This dataset contains arrests reported by the Pittsburgh Criminal Activity Dashb
 
 Cost of Living - https://data.wprdc.org/dataset/ucsur_neighborhoodprofiles_2024/resource/a2d6468e-0229-4c6a-92c5-10814092e580  
 This dataset contains survey data reported by American Community Survey from 2008 to 2022.
-<br>
-<br>
+<br>       
+<br>     
 **Overview:**
 Our goal is to quantify the best neighborhood in Pittsburgh based on the metric of Overall Environment, broken up into smaller submetrics including arrests, cost of living, and natural environment.  
 <br>
