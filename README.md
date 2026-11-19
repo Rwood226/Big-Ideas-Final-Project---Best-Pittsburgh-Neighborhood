@@ -1,4 +1,4 @@
-**Big Ideas Final Project - Best Pittsburgh Neighborhood**  
+<h1>Big Ideas Final Project - Best Pittsburgh Neighborhood</h1>
 
 **Group 27**  
 
