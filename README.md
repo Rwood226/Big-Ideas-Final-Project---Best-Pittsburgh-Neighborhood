@@ -1,6 +1,6 @@
 <h1>Big Ideas Final Project - Best Pittsburgh Neighborhood</h1>
 
-### Group 27   
+## Group 27   
 
 Layan Elkachouty     lae130@pitt.edu  
 Landyn Oates         lco22@pitt.edu  
