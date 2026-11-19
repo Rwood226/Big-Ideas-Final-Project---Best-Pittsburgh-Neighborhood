@@ -20,7 +20,7 @@ Thus Point Breeze has a Safety Score of 0.478894, placing it at number 23 on the
     
 To clarify, this is just arrests, and while a neighborhood of 4 people with 0 crime is great, it isn't the best, which is why other data is necessary. This can only be one piece to a greater puzzle.    
 
-I classified the top neighborhoods as those with a safety score greater than 0.3 to leave room for population errors
+I classified the top neighborhoods as those with a safety score greater than 0.3 to leave room for population errors      
 St. Clair  -  10.000000    
 Ridgemont  -  6.250000   
 New Homestead  -  4.166667    
