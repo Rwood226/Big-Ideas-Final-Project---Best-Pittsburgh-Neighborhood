@@ -18,7 +18,7 @@ Our goal is to quantify the best neighborhood in Pittsburgh based on the metric 
 
 **Best Neighborhoods:**
 1. **Highland Park:**   
-   421 cars/day, Score: 100&emsp;&emsp;&emsp;&ensp;Safety Score: 0.367677 
+   421 cars/day, Score: 100&emsp;&emsp;&emsp;&ensp;Safety Score: 0.367677&emsp;&emsp;&emsp;Affordability Score: 2218.278063
 2. **St. Clair:**     
    2436 cars/day, Score: 17.3&emsp;&emsp;&emsp;Safety Score: 10.00000 
 3. **Point Breeze North:**      
