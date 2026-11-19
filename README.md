@@ -16,7 +16,7 @@ This dataset contains survey data reported by American Community Survey from 200
 ### Overview:  
 Our goal is to quantify the best neighborhood in Pittsburgh based on the metric of Overall Environment, broken up into smaller submetrics including arrests, cost of living, and natural environment.  
 <br>
-<br>
+
 ### Best Neighborhoods:        
         
 **Traffic - Highland Park:**   
