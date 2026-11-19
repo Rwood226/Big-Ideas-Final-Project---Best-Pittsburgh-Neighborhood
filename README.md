@@ -31,6 +31,6 @@ Our goal is to quantify the best neighborhood in Pittsburgh based on the metric 
 **1. Highland Park:**   
 &emsp;&emsp;&emsp;&ensp;Traffic: #1&emsp;&emsp;&emsp;&ensp;Safety: #27&emsp;&emsp;&emsp;Affordability: #3
 **2. Swisshelm Park:**   
-&emsp;&emsp;&emsp;&ensp;Traffic: #1&emsp;&emsp;&emsp;&ensp;Safety: #6&emsp;&emsp;&emsp;Affordability: #4
+&emsp;&emsp;&emsp;&ensp;Traffic: N/A&emsp;&emsp;&emsp;&ensp;Safety: #6&emsp;&emsp;&emsp;Affordability: #4
 **3. Bloomfield:**   
 &emsp;&emsp;&emsp;&ensp;Traffic: #5&emsp;&emsp;&emsp;&ensp;Safety: #34&emsp;&emsp;&emsp;Affordability: #17
