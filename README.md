@@ -22,4 +22,4 @@ Our goal is to quantify the best neighborhood in Pittsburgh based on the metric 
 2. **St. Clair:**     
    2436 cars/day, Score: 17.3&emsp;&emsp;&emsp;Safety Score: 10.00000 
 3. **Point Breeze North:**      
-   868 cars/day, Score: 48.5&emsp;&emsp;&emsp;Safety Score: 0.050744&emsp;&emsp;&emsp;Affordability Score: 2289.932533
+   1468 cars/day, Score: 48.5&emsp;&emsp;&emsp;Safety Score: 0.050744&emsp;&emsp;&emsp;Affordability Score: 2289.932533
